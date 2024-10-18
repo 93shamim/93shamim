@@ -1,10 +1,10 @@
 ## Hi there, I'm SHAMIM 👋
-## I am an enthusiastic Python Web Developer.
+## Enthusiastic Python Web Developer
 
-
-- 🔭 I’m currently working on Django REST Framework
-- 🌱 I’m currently learning python, django, DRF, API, javaScript, Bootstrap, Tailwind CSS, React JS, AJAX,
-- 💬 Ask me about python, django and others
+- 🌱 Currently learning Django REST Framework (DRF)
+- 🔭 Working with Python, Django, DRF, API development, JavaScript, Bootstrap, Tailwind CSS, React JS, and AJAX
+       Also experienced in IT Support, Windows Server, and System Administration
+- 💬 Ask me about Python, Django, IT Support, and Windows Server
 - 📫 How to reach me: 93shamim@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
