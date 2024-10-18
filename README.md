@@ -3,7 +3,9 @@
 
 - 🌱 Currently learning Django REST Framework (DRF)
 - 🔭 Working with Python, Django, DRF, API development, JavaScript, Bootstrap, Tailwind CSS, React JS, and AJAX
-       Also experienced in IT Support, Windows Server, and System Administration
+ 
+- 💼 Experiences
+       -- 👨‍💻 IT Support, Windows Server, and System Administration
 - 💬 Ask me about Python, Django, IT Support, and Windows Server
 - 📫 How to reach me: 93shamim@gmail.com
 - 😄 Pronouns: ...
