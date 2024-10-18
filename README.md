@@ -12,9 +12,6 @@
 - ⚡ Fun fact: ...
 
 Connect with me:
-
--  <a herf="https://www.linkedin.com/in/93shamim">LinkedIn</a> 
--  <a herf="https://www.facebook.com/shamim11cse">Facebook</a>
-
-
+##  <a herf="https://www.linkedin.com/in/93shamim">LinkedIn</a> 
+##  <a herf="https://www.facebook.com/shamim11cse">Facebook</a>
 
