@@ -2,7 +2,7 @@
 ## I am an enthusiastic Python Web Developer.
 
 
-- 🔭 I’m currently working on ## Django REST Framework
+- 🔭 I’m currently working on Django REST Framework
 - 🌱 I’m currently learning python, django, DRF, API, javaScript, Bootstrap, Tailwind CSS, React JS, AJAX,
 - 💬 Ask me about python, django and others
 - 📫 How to reach me: 93shamim@gmail.com
